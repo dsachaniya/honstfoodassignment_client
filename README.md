@@ -70,10 +70,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 "# honstfoodassignment_client" 
 "# honstfoodassignment_client" 
 
-  Improvements:
-    we should move sensitive information into env file.
-    we need login and register functionality to look it more better
-    design is not implemted
-    google api key is not working after reaching the some limit
-    we can integrate map and show the user exact location directly on map. It require only one callback in google map api.
-    we can show the suggetion to user while typing the address and also current location if user don't want to type the address.
+    Improvements:
+      - we should move sensitive information into env file.
+      - we need login and register functionality to look it more better
+      - design is not implemted
+      - google api key is not working after reaching the some limit
+      - we can integrate map and show the user exact location directly on map. It require only one callback in google map api.
+      - we can show the suggetion to user while typing the address and also current location if user don't want to type the address.
